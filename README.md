@@ -1,24 +1,9 @@
-# README
+https://jaime-les-forms.herokuapp.com/
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Après le clone, faire : 
 
-Things you may want to cover:
+```bundle install```
 
-* Ruby version
+```rails db:create```
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```rails db:migrate```
