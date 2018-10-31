@@ -1,4 +1,4 @@
-https://jaime-les-forms.herokuapp.com/
+https://jaime-les-forms.herokuapp.com/users/new
 
 Après le clone, faire : 
 
